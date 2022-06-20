@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vẽ</string>
+
+    <string name="colour_picker_header">Chọn màu</string>
+    <string name="button_cancel">Hủy</string>
+    <string name="button_select">Chọn</string>
+
+    <string name="rationale_header">Quyền yêu cầu</string>
+    <string name="text_description">Cần có quyền truy cập bộ nhớ để lưu hoặc chia sẻ hình ảnh.</string>
+    <string name="button_allow">Cho phép</string>
+</resources>
